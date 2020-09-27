@@ -6,7 +6,7 @@
 name: 卖火柴的小蚂蚁
 
 # Short bio or description (displayed in the header)
-description: 卖火柴的小蚂蚁 - 隶属于新西兰农场
+description: 卖火柴的小蚂蚁 - 隶属于喜马拉雅新西兰农场
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/himalaya-nuts
+  github: himalaya-nuts/himalaya-nuts.github.io
   instagram:
   linkedin:
   pinterest:

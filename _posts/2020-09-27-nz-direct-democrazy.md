@@ -1,12 +1,10 @@
 ---
-title:【火柴练习课】介绍首个承认新中国联邦的新西兰政党——直接民主党
+title: 介绍新西兰首个承认新中国联邦的政党——直接民主党
 ---
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=5eVRdEJ9ROY" frameborder="0" allowfullscreen></iframe>
+2020年9月21日，喜马拉雅新西兰农场战友群里传来喜讯，*新西兰直接民主政党*(Direct Democrazy New Zealand)总秘书长*克里斯·纽曼（Chris Newman*接受老班长等人采访（[Gnews采访内容链接](https://gnews.org/zh-hans/375651/)），明确表示很高兴看到新西兰有许多追求自由的中国人挺身而出和他们一起对抗中共这个恶魔，他愿意更多地了解爆料革命和文贵先生为中国的自由民主所做的事，并对新中国联邦表示支持。采访视频如下：
 
-2020年9月21日，喜马拉雅新西兰农场战友群里传来喜讯，*新西兰直接民主政党*(Direct Democrazy New Zealand)总秘书长*克里斯·纽曼（Chris Newman*接受老班长等人采访（[Gnews采访内容链接](https://gnews.org/zh-hans/375651/)），明确表示很高兴看到新西兰有许多追求自由的中国人挺身而出和他们一起对抗中共这个恶魔，他愿意更多地了解爆料革命和文贵先生为中国的自由民主所做的事，并对新中国联邦表示支持。
-
-[TOC]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5eVRdEJ9ROY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 1 直接民主党简介
 
@@ -49,5 +47,3 @@ title:【火柴练习课】介绍首个承认新中国联邦的新西兰政党�
 新西兰大选在10月17日举行，各大小政党忙着宣传自己的政策讨好选民。火柴的下一篇文章整理新西兰各党的简介和政策，方便新西兰的战友们参考。了解各政党政策，选择对自己最有利的政党是民主社会公民最基本的权利和义务，海外战友多积累经验将来可以更好贡献新中国联邦。
 
 是政治就涉及到党争，就像我们不掺乎美国政治我们也不要参与当地政党间口水战，但是对于政策于我们有利的政党应该予以支持。我们当地华人要踊跃支持对爆料革命、新中国联邦有利的政党，根据新西兰的选举规则，小政党也能有关键时刻话语权，可能就差我们手中的一票！
-
-**火柴练习课**：民主就像骑自行车，加以练习人人都可熟练掌握，谁敢说中国人素质低不配骑自行车的？
